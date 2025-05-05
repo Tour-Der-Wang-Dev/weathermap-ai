@@ -1,10 +1,12 @@
 ---
-title: Weathermap Ai
-emoji: 😻
-colorFrom: pink
-colorTo: pink
+title: weathermap-ai
+emoji: 🐳
+colorFrom: blue
+colorTo: red
 sdk: static
 pinned: false
+tags:
+  - deepsite
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
